@@ -1,10 +1,12 @@
 html,
 body {
   margin: 0;
-  font-family: Inter, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Lilita One', 'Righteous', cursive, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: #e74716;
   color: #fff;
   overflow-x: hidden;
 }
@@ -93,7 +95,7 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #7700ee;
+  color: #000000;
 }
 
 .member-page form .card > div {
